@@ -60,17 +60,6 @@ AI and data science must be developed and used responsibly to prevent harm and e
 
 ---
 
-**Bonus Task: Data Science Career Paths**
-**What I Learned:**  
-Data Science offers various career opportunities, ranging from technical roles like Machine Learning Engineer to more business-focused positions like Data Analyst. Data Engineering, though distinct, plays a crucial role in the field.
-
-**Difficulties Faced:**  
-Some job roles had overlapping responsibilities, making it difficult to distinguish them. Understanding how different companies define these roles added another layer of complexity.
-
-**Final Thought:**  
-The diversity of career paths in Data Science is exciting, and I need to explore which role best aligns with my interests and skills.
-
----
 
 **Overall Reflection**
 
